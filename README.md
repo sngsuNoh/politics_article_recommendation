@@ -205,9 +205,6 @@ python src/bias_scoring/text_encoder.py
 # 그래프 구조 생성
 python src/graph/graph_features.py
 
-# 그래프 임베딩 생성
-python src/graph/embedding_loader.py
-
 # 편향도 예측 모델 학습
 python src/bias_scoring/train_full_model.py
 
