@@ -1,0 +1,33 @@
+# .gitignore
+
+# 1. 가상환경 폴더 제외 (용량 큼)
+airflow_env/
+.venv/
+env/
+
+# 2. 파이썬 임시 파일 제외
+__pycache__/
+*.pyc
+
+
+# 3. Airflow 로컬 설정 및 DB 제외 (서버마다 새로 만드는 게 나음)
+airflow.db
+airflow.cfg
+webserver_config.py
+standalone_admin_password.txt
+logs/
+*.pid
+airflow-*.pid
+airflow-*.err
+airflow-*.log
+
+# 4. 수집된 데이터 제외 (데이터는 코드 저장소에 넣지 않는 게 원칙)
+data/
+# 단, data 폴더 자체는 유지하고 싶다면 아래 줄 추가
+!data/.gitkeep
+
+# 5. OS 잡동사니
+.DS_Store
+
+# 6. 로드맵
+roadmap.md
