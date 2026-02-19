@@ -1,0 +1,10 @@
+# Airflow 
+apache-airflow==2.10.2
+
+# 크롤링 및 데이터 처리용
+pandas
+requests
+beautifulsoup4
+
+# 기타 필수 유틸
+lxml
