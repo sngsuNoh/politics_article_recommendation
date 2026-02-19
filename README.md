@@ -13,7 +13,7 @@
 | **노승수** | [@sngsuNoh](https://github.com/sngsuNoh) | 텍스트 임베딩, 편향도 예측 모델, 추천시스템, 평가 |
 | **박신지** | [@shinjipark22](https://github.com/shinjipark22) | Airflow 파이프라인, 편향도 라벨링 알고리즘 |
 | **이수인** | [@PassionChicken-Leesuin](https://github.com/PassionChicken-Leesuin) | 토픽 기반 라벨링, 그래프 임베딩, Edge list |
-| **임은석** | [@NULL](https://github.com/) | 데이터 수집, 전처리, BigQuery DB 구성 |
+| **임은석** | [@yim3001](https://github.com/yim3001) | 데이터 수집, 전처리, BigQuery DB 구성 |
 
 ---
 
