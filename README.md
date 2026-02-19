@@ -10,10 +10,10 @@
 
 | 이름 | GitHub | 주요 담당 |
 |:---:|:---:|---|
-| **노승수** | [@abcd](https://github.com/abcd) | 텍스트 임베딩, 편향도 예측 모델, 추천시스템, 평가 |
-| **박신지** | [@efgh](https://github.com/efgh) | Airflow 파이프라인, 편향도 라벨링 알고리즘 |
-| **이수인** | [@ijkl](https://github.com/ijkl) | 토픽 기반 라벨링, 그래프 임베딩, Edge list |
-| **임은석** | [@mnop](https://github.com/mnop) | 데이터 수집, 전처리, BigQuery DB 구성 |
+| **노승수** | [@sngsuNoh](https://github.com/sngsuNoh) | 텍스트 임베딩, 편향도 예측 모델, 추천시스템, 평가 |
+| **박신지** | [@shinjipark22](https://github.com/shinjipark22) | Airflow 파이프라인, 편향도 라벨링 알고리즘 |
+| **이수인** | [@PassionChicken-Leesuin](https://github.com/PassionChicken-Leesuin) | 토픽 기반 라벨링, 그래프 임베딩, Edge list |
+| **임은석** | [@NULL](https://github.com/) | 데이터 수집, 전처리, BigQuery DB 구성 |
 
 ---
 
